@@ -1,0 +1,3 @@
+robocopy "C:\Users\kukus\AppData\Roaming\Yandex\YandexDisk2\3.2.44.5094" "D:\Приложения" /sec /move /e
+
+mklink "C:\Users\kukus\AppData\Roaming\Yandex\YandexDisk2\3.2.44.5094" "D:\Приложения" /j
